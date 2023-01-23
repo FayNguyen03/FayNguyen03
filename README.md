@@ -1,6 +1,4 @@
-- 👋 Hula, I’m @FayNguyen03
-- 👀 I’m interested in coding
+- 👋 Xin chào, I’m @FayNguyen03, a freshman majoring in Computer Science at St.Olaf College MN, USA.
+- 👀 I’m interested in coding and cybersecurity.
+- I am looking for research and internship opportunities in the Computer Science field so I could gain knowledge and hands-on experience in the CS field as well as discover which field I could thrive in the most.
 
-FayNguyen03/FayNguyen03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
