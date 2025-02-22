@@ -3,3 +3,7 @@
 - I am looking for research and internship opportunities in the Computer Science field so I can gain knowledge and hands-on experience as well as discover which field I could thrive in the most.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ntkhanh391914?theme=forest&font=Schoolbell&ext=heatmap)
+
+<p float="row">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=faynguyen03&show_icons=true&theme=dark" width = 49.5%/>
+</p>
