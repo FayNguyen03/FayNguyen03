@@ -4,6 +4,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ntkhanh391914?theme=forest&font=Schoolbell&ext=heatmap)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faynguyen03&show_icons=true&locale=en&layout=compact" alt="faynguyen03" /></p>
+
 <p float="row">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=faynguyen03&show_icons=true&theme=dark" width = 49.5%/>
 </p>
