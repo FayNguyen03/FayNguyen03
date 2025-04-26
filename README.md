@@ -7,3 +7,5 @@
 <p float="row">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=faynguyen03&show_icons=true&theme=dark" width = 49.5%/>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FayNguyen03&" alt="faynguyen03" /></p>
