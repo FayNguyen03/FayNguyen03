@@ -1,6 +1,6 @@
 - 👋 Xin chào (Hello), I’m @FayNguyen03, a senior majoring in Computer Science and Mathematics in MN, USA.
 - Prev SWE Intern @Salesforce ☁︎
-- 👀 I’m interested in coding, software development, data science, and cybersecurity.
+- 👀 I’m interested in coding, software development, backend/full-stack development, and data science.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faynguyen03&show_icons=true&locale=en&layout=compact" alt="faynguyen03" /></p>
 
