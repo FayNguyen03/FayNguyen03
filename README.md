@@ -2,5 +2,9 @@
 - Incoming SWE @Salesforce, prev Data Management & Research Intern @IUPAC FairSpec, AI CURI Researcher @St. Olaf College
 - 👀 I’m interested in database development and management, backend/full-stack development, and data science.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=faynguyen03&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
- 
+<div align="center">
+    <!-- Github Streak Stats -->
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=FayNguyen03&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+    </a>
+</div>
