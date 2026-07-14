@@ -7,4 +7,10 @@
     <a href="#gh-dark-mode-only">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=FayNguyen03&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
     </a>
+
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=FayNguyen03&langs_count=6)
+
+  [![Fay's GitHub stats](https://github-stats-extended.vercel.app/api/?username=FayNguyen03&show_icons=true&theme=github-dark-blue_icon=github&include_all_commits=true&custom_title=FayNguyen03's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=FayNguyen03&show_icons=true&theme=github-dark-blue_icon=github&include_all_commits=true&custom_title=FayNguyen03's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 </div>
+
+
